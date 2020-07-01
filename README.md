@@ -8,7 +8,7 @@
 Run `python main.py` to see the results.
 
 
-####ANT COLONY OPTIMIZATION #######
+####GENETIC ALGORITHM #######
 John Holland introduced genetic algorithms in 1960 based on the concept of Darwin’s theory of evolution, and his student David E. Goldberg further extended GA in 1989(wikipedia).GA implemented by following steps
 1.	Create population
 2.	Determine fitness 
